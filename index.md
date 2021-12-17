@@ -1,3 +1,5 @@
+
+
 ## About Me
 
 My name is Dillon Gyotoku. I am a sophomore Industrial Engineering student at the University of Washington in Seattle, Washington and I was born and raised in the Seattle area. I also have strong ties to Oahu, Hawaii, where my dad's family lives- we take a trip down every year.
