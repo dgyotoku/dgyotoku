@@ -14,6 +14,8 @@ In addition to class and work, I attend clubs and generally seek out opportuniti
 
 - My latest resume can be downloaded below.
 
+[Resume](https://dgyotoku.github.io/assets/resumeDec21.pdf)
+
 ## Analytical Writing Samples
 
 ### Education Pain Point Analysis
