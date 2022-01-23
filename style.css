@@ -1,0 +1,36 @@
+body{
+    background-color: #D3B88C;
+    font-family: Futura-Book;
+}
+@font-face{
+    font-family: 'Futura-Book';
+    src: url('/futura.woff2') format('woff2'), url('/futura.woff') format('woff');
+    font-family: 'Helvetica';
+    src: url('/Helvetica.otf') format('opentype');
+}
+.content{
+    margin:auto;
+    width: 45%;
+}
+.buttons{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+button{
+    background-color: #D3B88C;
+    font-family: Futura-Book;
+}
+.center{
+    text-align: center;
+}
+.header{
+    background-color: #F4F2F3;
+}
+p{
+    font-family: Helvetica;
+}
+img{
+    width: 3rem;
+    padding: 0.5rem;
+}
